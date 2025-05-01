@@ -19,6 +19,7 @@ Base URL: `http://127.0.0.1:8000`
 "password": "your_password",
 "password_confirmation": "your_password"}
 }
+
 ### Login
 - **URL**: `/api/login`
 - **Method**: `POST`
@@ -28,6 +29,7 @@ Base URL: `http://127.0.0.1:8000`
   "email": "user@example.com",
   "password": "your_password"
 }
+
 ### Logout
 - **URL**: `/api/logout`
 - **Method**: `POST`
